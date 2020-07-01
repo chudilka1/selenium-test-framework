@@ -36,7 +36,7 @@
 
         <!--S-->
         <selenium.version>3.11.0</selenium.version>
-        <slf4j-simple.version>2.12.1</slf4j-simple.version>
+        <slf4j-simple.version>2.13.3</slf4j-simple.version>
 
         <!--T-->
         <testng.version>6.14.3</testng.version>
